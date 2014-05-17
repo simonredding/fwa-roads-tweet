@@ -1,0 +1,16 @@
+{
+  "name": "Scrapr",
+  "version": "0.0.0",
+  "description": "Scrapr.co.uk website",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Scrapr"
+  },
+  "author": "",
+  "license": "MIT"
+}
