@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "3.3.4"
-  }
+  },
   "main": "index.html",
   "scripts": {
     "start": "http-server -p 8008",
