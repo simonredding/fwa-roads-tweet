@@ -1,16 +1,20 @@
 {
-  "name": "Scrapr",
-  "version": "0.0.0",
-  "description": "Scrapr.co.uk website",
+  "name": "fwa-roads-tweet",
+  "version": "0.0.1",
+  "description": "Roads that tweet when they're in danger of flooding",
+  "private": true,
+  "dependencies": {
+    "express": "3.3.4"
+  }
   "main": "index.html",
   "scripts": {
-    "start": "http-server -p 8002",
+    "start": "http-server -p 8008",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "Scrapr"
+    "url": "fwa-roads-tweet"
   },
-  "author": "",
+  "author": "Simon Redding, using code from Terence Eden",
   "license": "MIT"
 }
